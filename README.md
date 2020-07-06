@@ -1,2 +1,2 @@
 # covid-cnn
-Detección de COVID-19 en radiografías con redes neuronales convoluciones
+Detección de COVID-19 en radiografías con redes neuronales convolucionales
